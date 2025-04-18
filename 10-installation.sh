@@ -2,4 +2,4 @@
 
 echo "Pretending to install mysql..."
 
-dnf install mysql -y
+echo sudo dnf install mysql -y
